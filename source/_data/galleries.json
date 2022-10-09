@@ -1,0 +1,32 @@
+[
+    {
+    "name": "美图",
+    "cover": "../galleries/美图/img/1.jpg",
+    "description": "不许涩涩",
+    "photos": [
+        "../galleries/美图/img/1.jpg",
+        "../galleries/美图/img/2.jpg",
+        "../galleries/美图/img/3.jpg",
+        "../galleries/美图/img/4.jpg"
+    ]
+    },
+    {
+    "name": "涩图",
+    "cover": "../galleries/涩图/img/1.jpg",
+    "description": "可以涩涩",
+    "photos": [
+        "../galleries/涩图/img/1.jpg",
+        "../galleries/涩图/img/2.jpg"
+    ]
+    },
+    {
+        "name": "动漫风景",
+        "cover": "../galleries/动漫风景/img/1.jpg",
+        "description": "动漫风景",
+        "photos": [
+            "../galleries/动漫风景/img/1.jpg",
+            "../galleries/动漫风景/img/2.jpg"
+        ]
+    }
+
+]
